@@ -9,4 +9,4 @@ X-RAY_HH "хед-хантер рентген" - многопоточный вэ�
 Технологии: Flask, Python, HTML, CSS, SQlite3, Pandas.
 ![X-RAY_HH](https://user-images.githubusercontent.com/92469981/204085249-02defcc8-5f2b-43df-860e-f9c023e4642f.png)
 
-Видео: https://disk.yandex.ru/i/DFHI7liPtw8t5g
+Видео: https://disk.yandex.ru/i/PbTU9YmEUwyUiA
