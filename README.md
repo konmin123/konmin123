@@ -17,6 +17,7 @@ Cсылка на репозиторий: https://github.com/konmin123/X-RAY_HH
 Технологии: Python, PyQt(PySide2).
 
 Видео: https://disk.yandex.ru/i/NDoGK7Q-sQm38g
+Ссылка на репозиторий: https://github.com/konmin123/2048
 
 ![2022-11-27_17-46-18](https://user-images.githubusercontent.com/92469981/204141410-f300e983-5c10-484e-b30f-62be269bd5a8.png)
 
