@@ -4,10 +4,12 @@ Hello everyone! My name is Konstantin Mindlin and I am developing Python program
 I live in the most beautiful city in the world - St. Petersburg!
 Я создал следующие программы: I have created the following programs:
 
-SteamPunkBoutique - сайт магазин-блог. На данный момент проект в разработке, в видео показана частичная реализация проекта.
-Технологии: Django, Python, HTML, Bootstrap 5, PostgresSQL, Pillow, Django Debug Toolbar.
+SteamPunkBoutique - сайт магазин-блог. На данный момент разработка сайта завершена, собственник наполняет сайт контентом, в видео показана часть функционала сайта.
+Технологии: Django, Python, HTML, Bootstrap 5, PostgresSQL, Pillow, Django Debug Toolbar, celery, RabbitMq.
+Деплой проекта: Nginx > Gunicorn > Django, vds - Ubuntu 22.04.2.
 
-Видео: https://disk.yandex.ru/i/2EYxukH5s2CbWA
+Сайт: https://стимпанк-бутикъ.рф
+Видео: https://disk.yandex.ru/i/xEXf-lXTVNrWjQ
 Cсылка на репозиторий: проект коммерческий, код является частной собственностью.
 
 ![2023-02-05_17-45-06](https://user-images.githubusercontent.com/92469981/216826393-31a79ce0-d5c0-4dc0-858b-01fc5f72a2be.png)
