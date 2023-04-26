@@ -4,6 +4,15 @@ Hello everyone! My name is Konstantin Mindlin and I am developing Python program
 I live in the most beautiful city in the world - St. Petersburg!
 Я создал следующие программы: I have created the following programs:
 
+Api_yambd - Серверная часть приложения Отзовик, Rest Full Api, клиент-серверная архитектура. Пользователи могут получить информацию в виде Json объектов обращаясть к серверу через публичные Api, переопределена модель пользователей, авторизация по JWT токену, код для получения токена приходит на почту указанную при регистрации. Для удобства подключена система автоматической документации Swagger.
+Технологии: Python 3.9, Django 3, Django Rest Framework, SQLite, Swagger, PyJWT.
+
+Cсылка на репозиторий: https://github.com/konmin123/api_yamdb
+
+![Api_yambd](https://user-images.githubusercontent.com/92469981/234678700-14be177b-41c4-4886-bfd7-074fc48349c7.png)
+
+_______________________________________________________________________________________________________________________________________________________________________
+
 SteamPunkBoutique - сайт магазин-блог. На данный момент разработка сайта завершена, собственник наполняет сайт контентом, в видео показана часть функционала сайта.
 Технологии: Django, Python, HTML, Bootstrap 5, PostgresSQL, Pillow, Django Debug Toolbar, celery, RabbitMq.
 Деплой проекта: Nginx > Gunicorn > Django, vds - Ubuntu 22.04.2.
