@@ -4,6 +4,7 @@ Hello everyone! My name is Konstantin Mindlin and I am developing Python program
 I live in the most beautiful city in the world - St. Petersburg!
 Я создал следующие программы: I have created the following programs:
 
+
 Api_yambd - Серверная часть приложения Отзовик, Rest Full Api, клиент-серверная архитектура. Пользователи могут получить информацию в виде Json объектов обращаясть к серверу через публичные Api, переопределена модель пользователей, авторизация по JWT токену, код для получения токена приходит на почту указанную при регистрации. Для удобства подключена система автоматической документации Swagger.
 Технологии: Python 3.9, Django 3, Django Rest Framework, SQLite, Swagger, PyJWT.
 
